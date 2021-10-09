@@ -19,6 +19,7 @@ public class MathUtilLive {
         long result = MathUtil.getFactorial(5);
         System.out.println("5!= 120; actual: "+ result);
         
+        System.out.println("3!= 6; actual: "+ MathUtil.getFactorial(3));
         //MathUtil.getFactorial(-5);
     }
     
