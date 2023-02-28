@@ -21,6 +21,8 @@ public class MathUtil {
             for(int i=2; i<= n; i++)         
             s *=i;            
             return s;
+            
+            
           
         }
 }

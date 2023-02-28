@@ -18,6 +18,7 @@ public class MathUtilLive {
         // TODO code application logic here
         long result = MathUtil.getFactorial(5);
         System.out.println("5! = 120; Actual: " + result);
+        System.out.println("1! = 1;" + MathUtil.getFactorial(1));
     }
     
 }
